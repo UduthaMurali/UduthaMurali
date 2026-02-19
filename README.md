@@ -24,7 +24,7 @@ For this year's Google Summer of Code, I am specifically looking to contribute t
 
 ### 📫 Connect with me:
 - 🌍 Based in: Kiel, Germany 🇩🇪
-- 💼 LinkedIn: [Your LinkedIn Profile Link]
+- 💼 LinkedIn: https://www.linkedin.com/in/murali-udutha/
 - 🎯 Goal: Contributing to my first GSoC project!
 
 <!--
