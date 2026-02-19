@@ -17,8 +17,8 @@ For this year's Google Summer of Code, I am specifically looking to contribute t
 - **Focus Areas:** Data Structures & Algorithms, Federated Learning, Software Modernization
 
 ### 📊 GitHub Stats
-![Murali's GitHub stats](https://github-readme-stats.vercel.app/api?username=UduthaMurali&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UduthaMurali&layout=compact&theme=radical)
+![Murali's GitHub stats]([https://github-readme-stats.vercel.app/api?username=UduthaMurali&show_icons=true&theme=radical](https://readme-stats-fast.vercel.app/api?username=UduthaMurali&show_icons=true&theme=radical))
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=UduthaMurali&layout=compact&theme=radical](https://readme-stats-fast.vercel.app/api/top-langs/?username=UduthaMurali&layout=compact&theme=radical))
 
 ---
 
